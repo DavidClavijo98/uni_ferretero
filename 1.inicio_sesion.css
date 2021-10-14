@@ -1,0 +1,99 @@
+*{ margin: 0 ;
+    padding: 0;
+ list-style: none;
+ font-family: sans-serif;
+ }
+/************************INICIO SESION********************************************* */
+body{
+    background: url(https://www.benavidezmateriales.com/wp-content/uploads/2019/06/1538146-fondo-2.jpg);
+    background-size: 100%;        
+}
+
+header
+{
+    position: relative;
+    top: 200px;
+    margin:1px auto;
+    width: 300px;
+    height: 30px;
+    background: #FF5733;
+    text-align: center;
+    border-color: black;
+}
+
+#cuerpo_formulario{
+    position: relative;
+    top: 200px;
+    margin: 1px auto;
+    width: 300px;
+    height: 200px;
+    background:#FFC300;
+    text-align: center;
+} 
+
+.contenedor_form{
+    width: 280px;
+    height: 180px ;
+    position: relative;
+    top: 10px;
+    margin: 1px auto;   
+    text-align: center;  
+}
+
+#icono{
+    border-radius: 100%;
+    border-color:black;
+    position: relative;
+}
+
+#div_usuario{
+
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+#div_contraseña{
+  
+    text-align: left;
+    border-color: black;    
+    margin-bottom: 5px;
+}
+
+#usuario{
+   
+    width: 180px; 
+    margin-left: 30px;
+}
+
+#contraseña{
+    
+    width: 180px;   
+    margin-left: 3px; 
+}
+
+.botones{
+    border: 1px solid black ;
+    padding: 5px;
+    background-color: #7a7a7a;
+    color: white ; 
+    font-family:  Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#recor_contraseña{
+    font-family:  Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 15px;
+    text-decoration: none;    
+    text-align: center;
+    border-color: black;    
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
